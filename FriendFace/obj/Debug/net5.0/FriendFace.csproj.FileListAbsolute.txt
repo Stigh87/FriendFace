@@ -1,0 +1,16 @@
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\FriendFace\FriendFace\bin\Debug\net5.0\FriendFace.exe
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\FriendFace\FriendFace\bin\Debug\net5.0\FriendFace.deps.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\FriendFace\FriendFace\bin\Debug\net5.0\FriendFace.runtimeconfig.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\FriendFace\FriendFace\bin\Debug\net5.0\FriendFace.runtimeconfig.dev.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\FriendFace\FriendFace\bin\Debug\net5.0\FriendFace.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\FriendFace\FriendFace\bin\Debug\net5.0\ref\FriendFace.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\FriendFace\FriendFace\bin\Debug\net5.0\FriendFace.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\FriendFace\FriendFace\obj\Debug\net5.0\FriendFace.csproj.AssemblyReference.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\FriendFace\FriendFace\obj\Debug\net5.0\FriendFace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\FriendFace\FriendFace\obj\Debug\net5.0\FriendFace.AssemblyInfoInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\FriendFace\FriendFace\obj\Debug\net5.0\FriendFace.AssemblyInfo.cs
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\FriendFace\FriendFace\obj\Debug\net5.0\FriendFace.csproj.CoreCompileInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\FriendFace\FriendFace\obj\Debug\net5.0\FriendFace.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\FriendFace\FriendFace\obj\Debug\net5.0\ref\FriendFace.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\FriendFace\FriendFace\obj\Debug\net5.0\FriendFace.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\FriendFace\FriendFace\obj\Debug\net5.0\FriendFace.genruntimeconfig.cache
